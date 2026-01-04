@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-image: linear-gradient(to right,green, blue);
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+}
+
+header {
+    background-color: rgb(9, 255, 0);
+    margin: 0;
+}
+nav{
+    text-align: center;
+}
+
+a{
+   text-decoration: none;
+
+}
+footer{
+    background-image: linear-gradient(to right, #15FF00, #00F6FF);
+    margin: 0; 
+}
