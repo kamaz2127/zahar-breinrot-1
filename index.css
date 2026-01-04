@@ -1,0 +1,27 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-image: linear-gradient(to right, #C1D938, #E22A2A);
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-image: linear-gradient(to right, #97FF47, #37DFFD);
+    margin: 0;
+}
+nav{
+    text-align: center;
+}
+
+a{
+   text-decoration: none;
+
+}
+footer{
+    background-image: linear-gradient(to right, #F6DA00, #00FF5E);
+    margin: 0; 
+}
