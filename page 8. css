@@ -1,0 +1,31 @@
+
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-image: linear-gradient(to right,rgb(240, 4, 4), rgb(131, 15, 15));
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+
+header {
+    background-image: linear-gradient(to right,rgb(240, 4, 4),
+     rgb(226, 222, 6), rgb(31, 226, 6), rgb(28, 6, 226));
+    margin: 0;
+}
+nav{
+    text-align: center;
+}
+
+a{
+   text-decoration: none;
+
+}
+footer{
+    background-image: linear-gradient(to right, #15FF00, #00F6FF);
+    margin: 0; 
+}
