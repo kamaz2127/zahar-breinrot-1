@@ -1,23 +1,42 @@
-<html>
-    <body>
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Рідкості - Purple Style</title>
+    <link rel="stylesheet" href="page6.css">
+</head>
+<body>
     <header>
-         <h1>рідкості</h1>
-          
-      
+        <h1>рідкості</h1>
+        <nav>
+            <a href="page2.html">rare</a>
+            <a href="page3.html">superrare</a>
+            <a href="page4.html">epic</a>
+            <a href="page5.html">legendary</a>
+            <a href="page6.html">mific</a>
+            <a href="page7.html">brainotGod</a>
+            <a href="page8.html">secret</a>
+            <a href="page8.html">OG</a>
+            <a href="index.html" class="bmain">main</a>
+            <a href="page9.html">wiki</a>
+        </nav>
     </header> 
-    <main>
-<img src="https://tr.rbxcdn.com/180DAY-74d60ae4788a6eec4461ba7d8a72ca58/420/420/ShirtAccessory/Webp/noFilter" width="100px" height="100pxpx"/>
-<img src="https://tr.rbxcdn.com/180DAY-a606be9f058803dade539f0bf5359f72/420/420/ShoulderAccessory/Webp/noFilter" width="100px" height="100pxpx"/>
-<img src="https://plantsvsbrainrotsvalues.com/_next/image?url=https%3A%2F%2Fpvsbvapi.voxelvalues.com%2Fuploads%2Fcompressed_1760171180984_erghoo.png&w=3840&q=75" width="100px" height="100pxpx"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lE1AFObAt8sfZ6MyMG9oPW--bOPwEjX6wQ&s" width="100px" height="100pxpx"/>
-<img src="https://images.cults3d.com/QSHIjgM7gJsbbxfsDhOSDPNEegA=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/37739719/illustration-file/bfa46e1d-2b5b-4103-bd14-8bd68d40171b/2.15.-Avocadini-Guffo.png" width="100px" height="100pxpx"/>
-<img src="https://tr.rbxcdn.com/180DAY-985f250a6641e8e280c2bc468ca726a9/420/420/LayeredAccessory/Webp/noFilter" width="100px" height="100pxpx"/>
-<img src="https://static.wikitide.net/italianbrainrotwiki/thumb/0/00/Womborollo.jpg/300px-Womborollo.jpg" width="100px" height="100pxpx"/>
-<img src="https://static.wikitide.net/italianbrainrotwiki/thumb/a/a6/Doi.jpg/300px-Doi.jpg" width="100px" height="100pxpx"/>
-<img src="https://tr.rbxcdn.com/180DAY-83475431cf5dc0b580234d20f5b0312c/420/420/ShirtAccessory/Webp/noFilter" width="100px" height="100pxpx"/>
-<img src="https://tr.rbxcdn.com/180DAY-b2b4e5fd90acb90dee8b7ddb351addea/420/420/ShirtAccessory/Webp/noFilter" width="100px" height="100pxpx"/>
 
+    <main> 
+        <div><img src="https://tr.rbxcdn.com/180DAY-74d60ae4788a6eec4461ba7d8a72ca58/420/420/ShirtAccessory/Webp/noFilter" /></div>
+        <div><img src="https://tr.rbxcdn.com/180DAY-a606be9f058803dade539f0bf5359f72/420/420/ShoulderAccessory/Webp/noFilter" /></div>
+        <div><img src="https://plantsvsbrainrotsvalues.com/_next/image?url=https%3A%2F%2Fpvsbvapi.voxelvalues.com%2Fuploads%2Fcompressed_1760171180984_erghoo.png&w=3840&q=75" /></div>
+        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lE1AFObAt8sfZ6MyMG9oPW--bOPwEjX6wQ&s" /></div>
+        <div><img src="https://images.cults3d.com/QSHIjgM7gJsbbxfsDhOSDPNEegA=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/37739719/illustration-file/bfa46e1d-2b5b-4103-bd14-8bd68d40171b/2.15.-Avocadini-Guffo.png" /></div>
+        <div><img src="https://tr.rbxcdn.com/180DAY-985f250a6641e8e280c2bc468ca726a9/420/420/LayeredAccessory/Webp/noFilter" /></div>
+        <div><img src="https://static.wikitide.net/italianbrainrotwiki/thumb/0/00/Womborollo.jpg/300px-Womborollo.jpg" /></div>
+        <div><img src="https://static.wikitide.net/italianbrainrotwiki/thumb/a/a6/Doi.jpg/300px-Doi.jpg" /></div>
+        <div><img src="https://tr.rbxcdn.com/180DAY-83475431cf5dc0b580234d20f5b0312c/420/420/ShirtAccessory/Webp/noFilter" /></div>
+        <div><img src="https://tr.rbxcdn.com/180DAY-b2b4e5fd90acb90dee8b7ddb351addea/420/420/ShirtAccessory/Webp/noFilter" /></div>
+    </main>
 
-
- </main>
+    <footer>
+        <p>погнали вперед</p>
+    </footer>
+</body>
 </html>
